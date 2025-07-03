@@ -1,7 +1,8 @@
 # Password Strength Analyzer & Cracker
 
-[https://img.shields.io/badge/python-3.6%252B-blue](https://img.shields.io/badge/python-3.6%252B-blue)  
-[https://img.shields.io/badge/license-MIT-green](https://img.shields.io/badge/license-MIT-green)
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+
 
 A security tool that analyzes password strength and demonstrates cracking techniques for educational purposes.
 
